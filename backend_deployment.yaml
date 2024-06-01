@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: programmer175/conduit_django:24
+        image: programmer175/conduit_django:25
         ports:
         - containerPort: 8000
         env:
