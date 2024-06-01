@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: programmer175/conduit_angular:119
+        image: programmer175/conduit_angular:120
         ports:
         - containerPort: 80
